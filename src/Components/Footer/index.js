@@ -13,7 +13,7 @@ const FooterComponent = ()=>{
                 <Container>
                    <Row>
                         <Col className=''>
-                            <h3 className='head_3'>Follow me </h3>
+                            <h3 className='head_3'>CONNECT</h3>
                             <ul className='socialIconsList'>
                                 <li>
                                     <a rel="noreferrer" href="https://www.linkedin.com/in/utkarsh-kaurav-311385255/" target="_blank">
